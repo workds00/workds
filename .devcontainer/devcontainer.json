@@ -1,0 +1,10 @@
+{
+  "name": "Codespace with Fira Code",
+  "build": {
+    "dockerfile": "Dockerfile"
+  },
+  "settings": {
+    "editor.fontFamily": "'Fira Code', Consolas, 'Courier New', monospace",
+    "editor.fontLigatures": true
+  }
+}
